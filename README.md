@@ -1,4 +1,5 @@
-# Manga History:
+# Manga History: 
+# PAS FINIT EN COURS DE DEVELOPPEMENT!!!!!!
 
 Site réaliser en stage sur le thème des mangas de style shonen.
 
@@ -13,3 +14,4 @@ Ce site n'est pas fait pour être publier mais pour developper des competences e
 
 
 ## V1.01:
+La marmotte continue de coder...
