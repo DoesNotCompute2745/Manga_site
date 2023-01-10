@@ -1,0 +1,30 @@
+:root{
+  --couleur-fond-bleu: #a6e4e7;
+}
+
+html{
+  font-size: 20px;
+  background: radial-gradient(circle at 10% 20%, rgb(253, 239, 132) 0%, rgb(247, 198, 169) 54.2%, rgb(21, 186, 196) 100.3%);
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.header_title{
+  background-color:var(--couleur-fond-bleu);
+  color:white;
+  font-family: 'Open Sans', sans-serif;
+  font-size:1em ;
+}
+
+.title{
+  color:black ;
+  font-size: 1em;
+}
+
+.subtitle{
+  font-size: 1em;
+  color:black;
+  font-family: 'Open Sans', sans-serif;
+}
